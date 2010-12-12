@@ -1,0 +1,5 @@
+Installing Nginx
+=================
+* ./configure --conf-path=/etc/nginx/nginx.conf --pid-path=/var/run/nginx.pid --http-log-path=/var/log/nginx/access.log --error-log-path=/var/log/nginx.log --user=nginx --group=nginx --prefix=/usr/local/nginx --sbin-path=/usr/local/sbin/nginx
+* sudo make
+* sudo make install

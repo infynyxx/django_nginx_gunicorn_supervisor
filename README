@@ -1,0 +1,2 @@
+Sample config files and init scripts to run Django with Nginx + Gunicorn + Supervisord
+======================================================================================

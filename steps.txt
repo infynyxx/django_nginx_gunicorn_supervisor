@@ -1,0 +1,4 @@
+Install Nginx
+Install Gunicorn
+Install EventLet
+Install Supervisord
